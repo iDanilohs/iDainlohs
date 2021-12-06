@@ -1,0 +1,101 @@
+
+/* Navigator */
+ul li{
+    width: 100%;
+    padding: 16px;
+    text-align: left;
+}
+
+.hide {
+    display: block;
+}
+
+nav ul {
+    display: none;
+}
+/* End of navigator */
+
+/* section about me */
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.column-2.image{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.column-1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+/* End section about me */
+
+/* section projects */
+
+.projects-headings {
+    align-items: center;
+    align-content: center;
+}
+
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects-card-img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.projects-card-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects-card-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects-card-title {
+    padding: 5%;
+    margin-left: 9%;
+}
+
+.projects-card-links a{
+    display: flex;
+    margin-right: 10%;
+}
+
+
