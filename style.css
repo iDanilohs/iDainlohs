@@ -105,6 +105,10 @@ nav ul li:hover {
 .download-cv:hover {
     background: #112d4e;
 }
+
+#photo {
+    border-radius: 10px;
+}
 /* End of the section about me */
 
 /* Section of projects */
